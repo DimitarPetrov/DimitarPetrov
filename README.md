@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src ="https://github.com/egonelbre/gophers/blob/master/.thumb/vector/adventure/hiking.png"">
-  <img src ="https://github-readme-stats.vercel.app/api?username=DimitarPetrov&show_icons=true&count_private=true&theme=default&include_all_commits=true">
+  <img src ="https://github-readme-stats.vercel.app/api?username=DimitarPetrov&show_icons=true&count_private=true&hide_border=true&theme=default&include_all_commits=true">
   <img src ="https://github.com/egonelbre/gophers/blob/master/.thumb/vector/superhero/zorro.png">
 </p>
 <!--- [![Linkedin](https://img.icons8.com/color/96/000000/linkedin.png)](https://www.linkedin.com/in/dimitar-nikolaev-petrov) -->
