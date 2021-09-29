@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://github.com/DimitarPetrov/stegify"><img src="https://img.shields.io/github/stars/DimitarPetrov/stegify.svg?label=stegify&style=social" alt="Stegify on GitHub"></a>
   <a href="https://github.com/DimitarPetrov/printracer"><img src="https://img.shields.io/github/stars/DimitarPetrov/printracer.svg?label=prinTracer&style=social" alt="prinTracer on GitHub"></a>
+  <a href="https://github.com/DimitarPetrov/godoc-generate"><img src="https://img.shields.io/github/stars/DimitarPetrov/godoc-generate.svg?label=godoc-generate&style=social" alt="godoc-generate on GitHub"></a>
   <a href="https://github.com/DimitarPetrov/study-snap"><img src="https://img.shields.io/github/stars/DimitarPetrov/study-snap.svg?label=Study+Snap&style=social" alt="Study Snap on Github"></a>
 </p>
 
